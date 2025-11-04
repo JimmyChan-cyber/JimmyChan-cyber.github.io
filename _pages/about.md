@@ -9,6 +9,4 @@ redirect_from:
 
 I'm a master student from [Master of Science in Computer Science](https://www.msc-cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). My research interest includes computer vision, LLMs, machine learning, adversarial attacks against LLMs and educational AI agent.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](u3638159@connect.hku.hk) / [Github](https://github.com/JimmyChan-cyber)
